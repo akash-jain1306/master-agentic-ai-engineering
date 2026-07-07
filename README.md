@@ -4,8 +4,17 @@ A practical, portfolio-oriented curriculum for becoming a strong AI and agentic 
 
 This repository is designed to grow like a technical textbook plus a working project lab. Each chapter combines theory, exercises, labs, solutions, interview preparation, and references. The goal is not only to learn concepts, but to build a public body of work that demonstrates engineering judgment.
 
+## Start Here
+
+- [Course Guide](COURSE.md)
+- [Publishing Guide](PUBLISHING.md)
+- [Getting Started](00-Getting-Started/README.md)
+- [Project Catalog](projects/CATALOG.md)
+- [Curated Resources](resources/README.md)
+
 ## Learning Path
 
+0. Getting Started
 1. Foundations
 2. Large Language Models
 3. Prompting and Instruction Design
@@ -29,6 +38,7 @@ This repository is designed to grow like a technical textbook plus a working pro
 ## Repository Structure
 
 ```text
+00-Getting-Started/ Course setup, roadmap, and starter exercises
 docs/           Course chapters
 labs/           Hands-on guided labs
 projects/       Portfolio-grade projects

@@ -2,6 +2,7 @@
 
 | # | Chapter | Status | Notes |
 |---|---|---|---|
+| 00 | Getting Started | Seeded | Setup, roadmap, starter resources, and exercises added |
 | 01 | Foundations | Seeded | Initial theory, exercises, lab, solutions, and interview prep added |
 | 02 | LLMs | Planned | Architecture, tokens, inference, limitations |
 | 03 | Prompting | Planned | Instruction design, examples, eval-driven prompting |
@@ -21,4 +22,3 @@
 | 17 | Production | Planned | Deployment, observability, cost, security |
 | 18 | Projects | Planned | 30+ portfolio projects |
 | 19 | Capstone | Planned | End-to-end production agent system |
-
