@@ -37,6 +37,7 @@ solutions/      Reference implementations and explanations
 cheatsheets/    High-density review pages
 diagrams/       Architecture and concept diagrams
 interview/      Interview questions and answer outlines
+resources/      Curated external learning resources
 scripts/        Automation helpers for maintaining the repo
 ```
 
@@ -69,3 +70,6 @@ The curriculum is built iteratively:
 
 See [PROGRESS.md](PROGRESS.md) for the chapter tracker.
 
+## Curated Resources
+
+See [resources/README.md](resources/README.md) for videos, books, guides, repositories, and external learning resources used to support the curriculum.
